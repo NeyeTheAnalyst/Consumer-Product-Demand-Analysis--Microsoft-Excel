@@ -132,9 +132,28 @@ for row in ws.iter_rows(min_row=2, values_only=True):
 
 ---
 
+## Contact Me
+
+Thanks for taking the time to explore my work!
+I’m always open to opportunities, collaborations, and conversations around data, analytics, and impactful projects.
+
+**Email:** matildaeyubeh@gmail.com
+
+**LinkedIn:** https://linkedin.com/in/matildaeyubeh
+
+**GitHub:** https://github.com/NeyeTheAnalyst
+
+**Let’s Connect If You’re:**
+
+- Hiring a junior data analyst
+
+- Looking for someone passionate about analytics
+
+---
+
 ## 📄 License
 
-This dataset is intended for analytical and educational purposes. Please ensure compliance with your organisation's data governance policies before sharing or publishing.
+This dataset is intended for analytical and educational purposes. 
 
 ---
 
