@@ -1,1 +1,1 @@
-# Consumer-Product-Demand-Analysis--MIcrosoft-Excel
+# Consumer-Product-Demand-Analysis--Microsoft-Excel
