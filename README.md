@@ -148,4 +148,3 @@ This dataset is intended for analytical and educational purposes.
 
 ---
 
-*Generated from `Consumer-Product_Demand.xlsx` — 50,000 demand records across 4 warehouses and 3 product categories.*
