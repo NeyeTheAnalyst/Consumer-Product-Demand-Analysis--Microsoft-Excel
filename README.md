@@ -91,15 +91,6 @@ A structured dataset containing **50,000 consumer product demand records** acros
 
 ---
 
-## ⚠️ Known Data Notes
-
-- **Uniform units**: All transactions record `1,000` units. This may reflect a batch order standard rather than true per-transaction demand variation.
-- **VLOOKUP time fields**: The `Time` column uses external VLOOKUP references that may not resolve without the original linked workbook.
-- **Derived columns**: Year, Month, Hour, and Order Timestamp in `DataSet` are formula-driven from the Date and Time columns.
-- **Single year of data**: The raw records are dated 2018. YoY comparisons in the Analysis sheet draw on a separate prior-year reference.
-
----
-
 ## 🚀 Potential Use Cases
 
 - **Demand forecasting** — Identify seasonal patterns by month and day of week
