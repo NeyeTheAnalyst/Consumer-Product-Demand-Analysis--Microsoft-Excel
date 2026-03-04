@@ -2,6 +2,8 @@
 
 A structured dataset containing **50,000 consumer product demand records** across multiple product categories, warehouses, and time periods. Designed for sales analytics, demand forecasting, and business intelligence reporting.
 
+
+![Dashboard Preview](ConsumerDemandDashboard.png)
 ---
 
 ## 📁 File Overview
